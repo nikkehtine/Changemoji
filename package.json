@@ -1,0 +1,13 @@
+{
+  "name": "changemoji",
+  "version": "1.0.0",
+  "description": "Change the default emoji style on websites",
+  "main": "popup.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@9.1.3+sha256.7f63001edc077f1cff96cacba901f350796287a2800dfa83fe898f94183e4f5f"
+}
