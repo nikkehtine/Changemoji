@@ -1,0 +1,6 @@
+*.htm             text diff=html
+*.html            text diff=html
+*.js              text
+*.json            text
+*.md              text diff=markdown
+*.png             binary
